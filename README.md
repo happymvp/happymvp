@@ -20,8 +20,7 @@
 
 <img  src="https://img.shields.io/badge/JavaScript-fff200?style=for-the-badge&logo=javascript&logoColor=black">&nbsp;
 <img  src="https://img.shields.io/badge/TypeScript-%230077B5?style=for-the-badge&logo=typescript&logoColor=white">&nbsp;
-<img  src="https://img.shields.io/badge/Java-E56F08?style=for-the-badge&logo=java&logoColor=white">&nbsp;
-<img  src="https://img.shields.io/badge/SQL-b33939?style=for-the-badge&logo=sql&logoColor=white">&nbsp;
+<img  src="https://img.shields.io/badge/nodejs-blue?style=for-the-badge">&nbsp;
 
 ## Github stats
 
