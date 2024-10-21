@@ -31,4 +31,4 @@
 
 ## Visitors count
 
-<img src="https://profile-counter.glitch.me/raheemadamboev/count.svg" />
+<img src="https://profile-counter.glitch.me/happymvp/count.svg" />
